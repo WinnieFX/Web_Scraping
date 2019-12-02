@@ -1,5 +1,5 @@
 # Web Scraping Using Selenium Package in Python 
-#                      -- Data ETL Process
+                         **-- _Data ETL Process_**
 
 Step1: Use ‘webdriver’ function to automatically open browser, click the right buttons, and read (or download) the targeted data tables (or files) from a website, with ‘logging’ function being applied to track related information at the same time;
 
